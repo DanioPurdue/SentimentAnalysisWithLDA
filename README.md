@@ -1,1 +1,1 @@
-# CS249SentimentAnalysis
+# CS249 Sentiment Analysis

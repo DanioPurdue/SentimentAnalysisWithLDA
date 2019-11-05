@@ -1,1 +1,2 @@
-# CS249 Sentiment Analysis
+# LDA + LSTM on Yelp Dataset
+
